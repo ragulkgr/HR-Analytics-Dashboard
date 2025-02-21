@@ -1,22 +1,39 @@
-# HR-Analytics-Dashboard
-#📊 Overview#
-This HR Analytics Dashboard is built using Tableau to visualize key workforce metrics, including employee attrition, performance trends, recruitment insights, and demographic analysis. It helps HR professionals make data-driven decisions efficiently.
+#📊 HR Analytics Dashboard
 
-📂 Files Included
-HR ANALYTICS DASHBOARD.twbx – Tableau Workbook containing the interactive dashboard.
-📈 Key Insights
-Employee attrition rates and trends
-Performance analysis by department, job role, and experience
-Recruitment insights and hiring trends
-Workforce demographics (age, gender, tenure, etc.)
-Salary distribution and compensation analysis
-🛠️ How to Use
-Download the .twbx file.
-Open it in Tableau Desktop (or Tableau Public).
-Explore interactive visualizations to gain insights.
-📌 Requirements
-Tableau Desktop or Tableau Public (latest version recommended).
-🔗 Future Enhancements
-Integration with live HR databases
-Predictive modeling for attrition forecasting
-Advanced filtering and drill-down capabilities
+🚀 An interactive Tableau dashboard for analyzing workforce trends, employee attrition, performance, and recruitment insights.
+
+**📌 Overview**
+
+This project presents an HR Analytics Dashboard built with Tableau, designed to help HR teams and management make data-driven decisions by visualizing key employee metrics.
+
+**📂 Dataset Details**
+
+The dataset contains employee records and key HR metrics, including:
+
+**Feature	Description**
+
+Employee ID	Unique identifier for each employee.
+Department	HR, IT, Sales, etc.
+Job Role	Specific job titles.
+Attrition Status	Whether the employee is active or left.
+Experience	Years of experience.
+Salary	Annual salary details.
+Performance Rating	Employee performance score (1-5).
+
+**📈 Dashboard Features**
+
+✅ Employee Attrition Analysis – Identify trends in employee turnover.
+✅ Performance Insights – Track employee ratings across departments.
+✅ Recruitment Trends – Visualize hiring and exit patterns.
+✅ Salary Distribution – Compare compensation across roles.
+✅ Workforce Demographics – Analyze gender, age, and experience distribution.
+
+**📌 Requirements**
+
+Tableau Desktop or Tableau Public (latest version).
+
+**🔥 Future Enhancements**
+
+Predictive modeling for attrition forecasting 📊
+Integration with live HR databases 🏢
+Advanced filtering and drill-down options 🔍
