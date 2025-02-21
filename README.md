@@ -10,6 +10,16 @@ This project presents an HR Analytics Dashboard built with Tableau, designed to 
 
 The dataset contains employee records and key HR metrics, including:
 
+| Feature               | Description |
+|----------------------|-------------|
+| **Employee ID**      | Unique identifier for each employee. |
+| **Department**       | HR, IT, Sales, etc. |
+| **Job Role**         | Specific job titles. |
+| **Attrition Status** | Whether the employee is active or left. |
+| **Experience**       | Years of experience. |
+| **Salary**          | Annual salary details. |
+| **Performance Rating** | Employee performance score (1-5). |
+
 **Feature	Description**
 
 Employee ID	Unique identifier for each employee.
