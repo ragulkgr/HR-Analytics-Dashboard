@@ -1,4 +1,4 @@
-#📊 HR Analytics Dashboard
+# 📊 HR Analytics Dashboard
 
 🚀 An interactive Tableau dashboard for analyzing workforce trends, employee attrition, performance, and recruitment insights.
 
